@@ -75,6 +75,7 @@ _NATIONAL_EXTRA_HOLIDAYS_FOR_P3_PERIOD = {
         date(2025, 12, 8): "(lunes), La Inmaculada Concepción",
         date(2025, 12, 25): "(jueves), Navidad",
     },
+    2026: {
         date(2026, 1, 1): "(jueves), Año nuevo",
         date(2026, 1, 6): "(martes), Epifanía del Señor",
         # date(2026, 4, 17): "(jueves), Jueves Santo",
