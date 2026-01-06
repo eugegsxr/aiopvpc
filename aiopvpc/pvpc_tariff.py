@@ -89,7 +89,6 @@ _NATIONAL_EXTRA_HOLIDAYS_FOR_P3_PERIOD = {
         date(2026, 12, 25): "(viernes), Navidad",
 }
 
-
 def _tariff_period_key(local_ts: datetime, zone_ceuta_melilla: bool) -> str:
     """Return period key (P1/P2/P3) for current hour."""
     day = local_ts.date()
